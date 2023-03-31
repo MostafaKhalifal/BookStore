@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\eBookStore.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\BookFiles\\assets\\AAA.jpg",
+      "PackagePath": "staticwebassets\\BookFiles\\assets\\AAA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\BookFiles\\assets\\BBB.jpg",
+      "PackagePath": "staticwebassets\\BookFiles\\assets\\BBB.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\BookFiles\\assets\\OBS.jpg",
+      "PackagePath": "staticwebassets\\BookFiles\\assets\\OBS.jpg"
+    },
+    {
       "Id": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\BookFiles\\assets\\favicon.ico",
       "PackagePath": "staticwebassets\\BookFiles\\assets\\favicon.ico"
     },
@@ -15,6 +27,10 @@
     {
       "Id": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\BookFiles\\js\\scripts.js",
       "PackagePath": "staticwebassets\\BookFiles\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\Details\\css\\styels.css",
+      "PackagePath": "staticwebassets\\Details\\css\\styels.css"
     },
     {
       "Id": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\css\\site.css",

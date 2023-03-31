@@ -6,4 +6,21 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\Details\js\script.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\Details\js\script.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Details\assets\" />
+    <Folder Include="wwwroot\Details\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Details\js\script.js" />
+  </ItemGroup>
+
 </Project>

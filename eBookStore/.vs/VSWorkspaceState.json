@@ -5,6 +5,6 @@
     "\\eBookStore\\Views",
     "\\eBookStore\\Views\\Home"
   ],
-  "SelectedNode": "\\eBookStore.sln",
+  "SelectedNode": "\\eBookStore\\Views\\Home\\Details.cshtml",
   "PreviewInSolutionExplorer": false
 }

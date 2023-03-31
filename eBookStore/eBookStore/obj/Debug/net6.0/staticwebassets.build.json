@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+aZ7KmHnRfPG9xBFIaYFPb21LKQrYOojGrFdSAN5jkQ=",
+  "Hash": "gNaGrxfKMf0506qENP4LMkTDz3za5x2aqQRuH1TEjiM=",
   "Source": "eBookStore",
   "BasePath": "_content/eBookStore",
   "Mode": "Default",
@@ -51,6 +51,40 @@
       "OriginalItemSpec": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eBookStore.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\BookFiles\\assets\\AAA.jpg",
+      "SourceId": "eBookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\",
+      "BasePath": "_content/eBookStore",
+      "RelativePath": "BookFiles/assets/AAA.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\BookFiles\\assets\\AAA.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\BookFiles\\assets\\BBB.jpg",
+      "SourceId": "eBookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\",
+      "BasePath": "_content/eBookStore",
+      "RelativePath": "BookFiles/assets/BBB.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\BookFiles\\assets\\BBB.jpg"
+    },
+    {
       "Identity": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\BookFiles\\assets\\favicon.ico",
       "SourceId": "eBookStore",
       "SourceType": "Discovered",
@@ -66,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\BookFiles\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\BookFiles\\assets\\OBS.jpg",
+      "SourceId": "eBookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\",
+      "BasePath": "_content/eBookStore",
+      "RelativePath": "BookFiles/assets/OBS.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\BookFiles\\assets\\OBS.jpg"
     },
     {
       "Identity": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\BookFiles\\css\\styles.css",
@@ -117,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\Details\\css\\styels.css",
+      "SourceId": "eBookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\",
+      "BasePath": "_content/eBookStore",
+      "RelativePath": "Details/css/styels.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Details\\css\\styels.css"
     },
     {
       "Identity": "C:\\Users\\EL10_gazy\\source\\repos\\eBookStore\\eBookStore\\wwwroot\\favicon.ico",
