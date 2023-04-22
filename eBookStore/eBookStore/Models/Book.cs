@@ -2,7 +2,7 @@
 
 namespace eBookStore.Models
 {
-	public class Books
+	public class Book
 	{
 		[Key]
 		public int Id { get; set; }
@@ -10,6 +10,8 @@ namespace eBookStore.Models
 		public string Title { get; set; }
 		[Required]
 		public string Description { get; set; }
+		[Required]
+		public byte[] Image { get; set; }
 		public string Author { get; set; }
 		[Required]
 		public double Price { get; set; }

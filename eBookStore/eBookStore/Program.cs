@@ -1,7 +1,21 @@
+using eBookStore.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<BooksDbContext>(options => options.UseSqlServer(
+    builder.Configuration.GetConnectionString("MyConnection")
+    ));
+// keep in mind why did u add this
+builder.Services.AddControllersWithViews()
+    .AddJsonOptions(o =>
+    {
+        o.JsonSerializerOptions.PropertyNameCaseInsensitive = true;
+        o.JsonSerializerOptions.PropertyNamingPolicy = null;
+
+	});
 
 var app = builder.Build();
 
