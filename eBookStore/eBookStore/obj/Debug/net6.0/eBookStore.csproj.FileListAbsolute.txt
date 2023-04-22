@@ -29,3 +29,34 @@ C:\Users\EL10_gazy\source\repos\eBookStore\eBookStore\obj\Debug\net6.0\refint\eB
 C:\Users\EL10_gazy\source\repos\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.pdb
 C:\Users\EL10_gazy\source\repos\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.genruntimeconfig.cache
 C:\Users\EL10_gazy\source\repos\eBookStore\eBookStore\obj\Debug\net6.0\ref\eBookStore.dll
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\bin\Debug\net6.0\appsettings.Development.json
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\bin\Debug\net6.0\appsettings.json
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\bin\Debug\net6.0\eBookStore.staticwebassets.runtime.json
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\bin\Debug\net6.0\eBookStore.exe
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\bin\Debug\net6.0\eBookStore.deps.json
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\bin\Debug\net6.0\eBookStore.runtimeconfig.json
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\bin\Debug\net6.0\eBookStore.dll
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\bin\Debug\net6.0\eBookStore.pdb
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.csproj.AssemblyReference.cache
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.GeneratedMSBuildEditorConfig.editorconfig
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.AssemblyInfoInputs.cache
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.AssemblyInfo.cs
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.csproj.CoreCompileInputs.cache
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.MvcApplicationPartsAssemblyInfo.cache
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.RazorAssemblyInfo.cache
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.RazorAssemblyInfo.cs
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.eBookStore.Microsoft.AspNetCore.StaticWebAssets.props
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.eBookStore.props
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eBookStore.props
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eBookStore.props
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\staticwebassets.pack.json
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\staticwebassets.build.json
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\staticwebassets.development.json
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\scopedcss\bundle\eBookStore.styles.css
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\scopedcss\projectbundle\eBookStore.bundle.scp.css
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.dll
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\refint\eBookStore.dll
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.pdb
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\eBookStore.genruntimeconfig.cache
+G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\obj\Debug\net6.0\ref\eBookStore.dll
