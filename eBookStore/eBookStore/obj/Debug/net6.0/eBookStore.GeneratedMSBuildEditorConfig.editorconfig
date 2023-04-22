@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = eBookStore
 build_property.RootNamespace = eBookStore
-build_property.ProjectDir = C:\Users\EL10_gazy\source\repos\eBookStore\eBookStore\
+build_property.ProjectDir = G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\EL10_gazy\source\repos\eBookStore\eBookStore
+build_property.MSBuildProjectDirectory = G:\الكلية\الكلية سنة 3 الترم التاني\software development\main project\BookStore\eBookStore\eBookStore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/Home/Book.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/Home/Book.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb29rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/Home/Details.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/Home/Index.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/Home/Login.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/Home/Privacy.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/Home/Register.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/Home/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/Shared/Error.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/_ViewImports.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/_ViewStart.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/EL10_gazy/source/repos/eBookStore/eBookStore/Views/Shared/_Layout.cshtml]
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/main project/BookStore/eBookStore/eBookStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rd9kt8zkqp

@@ -1,7 +1,7 @@
 ﻿using eBookStore.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-
+// first commit test
 namespace eBookStore.Controllers
 {
     public class HomeController : Controller
@@ -12,7 +12,7 @@ namespace eBookStore.Controllers
         {
             _logger = logger;
         }
-
+        
         public IActionResult Index()
         {
             return View();
