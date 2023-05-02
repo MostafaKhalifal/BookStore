@@ -33,17 +33,6 @@
       "PackagePath": "staticwebassets\\BookImages\\AI Superpowers.jpg"
     },
     {
-<<<<<<< HEAD
-      "Id": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\BookImages\\Artificial Intelligence For Dummies.jpg",
-      "PackagePath": "staticwebassets\\BookImages\\Artificial Intelligence For Dummies.jpg"
-    },
-    {
-      "Id": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\BookImages\\Essential Math for AI.jpg",
-      "PackagePath": "staticwebassets\\BookImages\\Essential Math for AI.jpg"
-    },
-    {
-      "Id": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\Details\\css\\styels.css",
-=======
       "Id": "C:\\Users\\EL10_gazy\\Desktop\\New folder (10)\\BookStore\\eBookStore\\eBookStore\\wwwroot\\BookImages\\Artificial Intelligence For Dummies.jpg",
       "PackagePath": "staticwebassets\\BookImages\\Artificial Intelligence For Dummies.jpg"
     },
@@ -53,7 +42,6 @@
     },
     {
       "Id": "C:\\Users\\EL10_gazy\\Desktop\\New folder (10)\\BookStore\\eBookStore\\eBookStore\\wwwroot\\Details\\css\\styels.css",
->>>>>>> 96e247c42699eb490f72910d790fa5383423d0a9
       "PackagePath": "staticwebassets\\Details\\css\\styels.css"
     },
     {

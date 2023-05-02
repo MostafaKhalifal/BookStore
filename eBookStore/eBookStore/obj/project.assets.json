@@ -10850,19 +10850,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mohme\\.nuget\\packages\\": {}
+    "C:\\Users\\EL10_gazy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\eBookStore.csproj",
+      "projectUniqueName": "C:\\Users\\EL10_gazy\\Desktop\\New folder (10)\\BookStore\\eBookStore\\eBookStore\\eBookStore.csproj",
       "projectName": "eBookStore",
-      "projectPath": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\eBookStore.csproj",
-      "packagesPath": "C:\\Users\\mohme\\.nuget\\packages\\",
-      "outputPath": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\obj\\",
+      "projectPath": "C:\\Users\\EL10_gazy\\Desktop\\New folder (10)\\BookStore\\eBookStore\\eBookStore\\eBookStore.csproj",
+      "packagesPath": "C:\\Users\\EL10_gazy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\EL10_gazy\\Desktop\\New folder (10)\\BookStore\\eBookStore\\eBookStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mohme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\EL10_gazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

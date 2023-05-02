@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "RIA9TW4dcNEm0SiRH/DzkBkzfvs37d4leeywfobb7Lo=",
-=======
   "Hash": "lIuK/ChyumCT71BYx472uUN2obT2sJ+3+I3bzcqMDfY=",
->>>>>>> 96e247c42699eb490f72910d790fa5383423d0a9
   "Source": "eBookStore",
   "BasePath": "_content/eBookStore",
   "Mode": "Default",
@@ -174,45 +170,7 @@
       "OriginalItemSpec": "wwwroot\\BookImages\\AI Superpowers.jpg"
     },
     {
-<<<<<<< HEAD
-      "Identity": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\BookImages\\Artificial Intelligence For Dummies.jpg",
-      "SourceId": "eBookStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\",
-      "BasePath": "_content/eBookStore",
-      "RelativePath": "BookImages/Artificial Intelligence For Dummies.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\BookImages\\Artificial Intelligence For Dummies.jpg"
-    },
-    {
-      "Identity": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\BookImages\\Essential Math for AI.jpg",
-      "SourceId": "eBookStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\",
-      "BasePath": "_content/eBookStore",
-      "RelativePath": "BookImages/Essential Math for AI.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\BookImages\\Essential Math for AI.jpg"
-    },
-    {
-      "Identity": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\css\\site.css",
-=======
       "Identity": "C:\\Users\\EL10_gazy\\Desktop\\New folder (10)\\BookStore\\eBookStore\\eBookStore\\wwwroot\\BookImages\\Artificial Intelligence For Dummies.jpg",
->>>>>>> 96e247c42699eb490f72910d790fa5383423d0a9
       "SourceId": "eBookStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\EL10_gazy\\Desktop\\New folder (10)\\BookStore\\eBookStore\\eBookStore\\wwwroot\\",
