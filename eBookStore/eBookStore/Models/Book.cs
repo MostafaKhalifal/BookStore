@@ -11,7 +11,7 @@ namespace eBookStore.Models
 		[Required]
 		public string Description { get; set; }
 		[Required]
-		public byte[] Image { get; set; }
+		public string ImageFile { get; set; }
 		public string Author { get; set; }
 		[Required]
 		public double Price { get; set; }
