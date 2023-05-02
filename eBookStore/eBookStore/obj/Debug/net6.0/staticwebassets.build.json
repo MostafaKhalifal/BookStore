@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nmd/aR2M0n1S6vgyBnSAUy4hOc2qC7CuDTdG5Vc3qvw=",
+  "Hash": "4UT+dRI0DfGY8+H7zP/pj+KLU86RB8TGUktZjTLJZCo=",
   "Source": "eBookStore",
   "BasePath": "_content/eBookStore",
   "Mode": "Default",
@@ -151,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\BookFiles\\js\\scripts.js"
+    },
+    {
+      "Identity": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\BookImages\\AI Superpowers.jpg",
+      "SourceId": "eBookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\",
+      "BasePath": "_content/eBookStore",
+      "RelativePath": "BookImages/AI Superpowers.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\BookImages\\AI Superpowers.jpg"
     },
     {
       "Identity": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\css\\site.css",

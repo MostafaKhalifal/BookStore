@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\BookFiles\\js\\scripts.js"
     },
     {
+      "Id": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\BookImages\\AI Superpowers.jpg",
+      "PackagePath": "staticwebassets\\BookImages\\AI Superpowers.jpg"
+    },
+    {
       "Id": "G:\\الكلية\\الكلية سنة 3 الترم التاني\\software development\\software development project\\BookStore\\eBookStore\\eBookStore\\wwwroot\\Details\\css\\styels.css",
       "PackagePath": "staticwebassets\\Details\\css\\styels.css"
     },

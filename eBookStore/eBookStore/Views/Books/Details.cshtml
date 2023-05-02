@@ -11,7 +11,7 @@
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Title)
+            @Html.DisplayNameFor(model => model.Title) 
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Title)
@@ -23,16 +23,16 @@
             @Html.DisplayFor(model => model.Description)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.ImageFile)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.ImageFile)
-        </dd>
-        <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Author)
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Author)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Category)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Category)
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Price)
@@ -46,12 +46,12 @@
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Rating)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Category)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Category)
+        <dd>
+            <img src="~/BookImages/@Model.ImageFile" height="150" />
+            <br />@Model.ImageFile
+
         </dd>
+
     </dl>
 </div>
 <div>
