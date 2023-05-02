@@ -10,6 +10,8 @@ namespace eBookStore.Data
         }
         
         public DbSet<Book> books { get; set; }
+        
+        public DbSet<eBookStore.Models.usersaccounts>? usersaccounts { get; set; }
          
     }
 }
