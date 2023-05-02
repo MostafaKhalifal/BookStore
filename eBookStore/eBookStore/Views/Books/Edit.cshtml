@@ -48,6 +48,9 @@
                 <input asp-for="Rating" class="form-control" />
                 <span asp-validation-for="Rating" class="text-danger"></span>
             </div>
+
+            <img src="~/images/@Model.ImageFile" height="150" />
+            <input type="hidden" asp-for="ImageFile" />
             <div class="form-group">
                 <label class="control-label">Book Image</label>
                 <input type="file" class="form-control" name="file" />
