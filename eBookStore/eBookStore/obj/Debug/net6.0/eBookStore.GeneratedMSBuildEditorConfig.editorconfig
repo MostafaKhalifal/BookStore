@@ -48,10 +48,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/الكلية/الكلية سنة 3 الترم التاني/software development/software development project/BookStore/eBookStore/eBookStore/Views/Home/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [G:/الكلية/الكلية سنة 3 الترم التاني/software development/software development project/BookStore/eBookStore/eBookStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -66,6 +62,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [G:/الكلية/الكلية سنة 3 الترم التاني/software development/software development project/BookStore/eBookStore/eBookStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/software development project/BookStore/eBookStore/eBookStore/Views/usersaccounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/software development project/BookStore/eBookStore/eBookStore/Views/usersaccounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/software development project/BookStore/eBookStore/eBookStore/Views/usersaccounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/الكلية/الكلية سنة 3 الترم التاني/software development/software development project/BookStore/eBookStore/eBookStore/Views/usersaccounts/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNhY2NvdW50c1xMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [G:/الكلية/الكلية سنة 3 الترم التاني/software development/software development project/BookStore/eBookStore/eBookStore/Views/_ViewImports.cshtml]
