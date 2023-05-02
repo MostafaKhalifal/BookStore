@@ -94,8 +94,18 @@ namespace eBookStore.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,ImageFile,Author,Price,Rating,Category")] Book book)
+        public async Task<IActionResult> Edit(IFormFile file,int id, [Bind("Id,Title,Description,ImageFile,Author,Price,Rating,Category")] Book book)
         {
+            if (file != null)
+            {
+                string filename = file.FileName;
+                //  string  ext = Path.GetExtension(file.FileName);
+                string path = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\BookImages"));
+                using (var filestream = new FileStream(Path.Combine(path, filename), FileMode.Create))
+                { await file.CopyToAsync(filestream); }
+
+                book.ImageFile = filename;
+            }
             if (id != book.Id)
             {
                 return NotFound();
