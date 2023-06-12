@@ -1,0 +1,98 @@
+﻿@model WebApplication5.Models.book
+
+@{
+	ViewData["Title"] = "Create";
+	Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Meta -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="Xiaoying Riley at 3rd Wave Media">
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<!-- Google Font -->
+	<link href="https://fonts.googleapis.com/css?family=Quicksand:700|Roboto:400,400i,700&display=swap" rel="stylesheet">
+
+	<!-- FontAwesome JS-->
+	<script defer src="/detailsAssets/fontawesome/js/all.min.js"></script>
+
+	<!-- Theme CSS -->
+	<link id="theme-style" rel="stylesheet" href="/detailsAssets/css/theme.css">
+
+
+</head>
+
+<body>
+	<section class="hero-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-md-7 pt-5 mb-5 align-self-center">
+					<div class="promo pe-md-3 pe-lg-5">
+						<h1 class="headline mb-3">
+							@Html.DisplayFor(model => model.title)
+						</h1><!--//headline-->
+						<div class="subheadline mb-4">
+							<p style="height : 88px; Overflow:clip;">@Html.DisplayFor(model => model.info)</p>
+						</div><!--//subheading-->
+						<form method="post" asp-controller="Orders" asp-action="AddToCart" asp-route-bookId="@Model.Id">
+							<div class="form-group">
+								<label for="quantity">Quantity:</label>
+								<input type="number" class="form-control" id="quantity" name="quantity" min="1" value="1">
+							</div>
+							<button type="submit" class="btn btn-primary">Add to Cart</button>
+						</form>
+						<p>
+							<span style="font-size: 28px;font-weight: bold;">Price: </span><span style="font-size: 28px;font-weight: bold;">@Html.DisplayFor(model => model.price)</span>
+						</p>
+						<div class="hero-quotes mt-5">
+							<div id="quotes-carousel" class="quotes-carousel carousel slide carousel-fade mb-5" data-bs-ride="carousel" data-bs-interval="8000">
+								<div class="carousel-inner">
+									<div class="carousel-item active">
+										<div class="source row gx-md-3 gy-3 gy-md-0 align-items-center">
+											<div class="col-12 col-md-auto text-center text-md-start">
+												<img class="source-profile" src="/detailsAssets/images/profiles/profile-1.png" alt="image">
+											</div><!--//col-->
+											<div class="col source-info text-center text-md-start">
+												<div class="source-name">Author</div>
+												<div class="soure-title">@Html.DisplayFor(model => model.author)</div>
+											</div><!--//col-->
+										</div><!--//source-->
+									</div><!--//carousel-item-->
+								</div><!--//carousel-inner-->
+							</div><!--//quotes-carousel-->
+
+						</div><!--//hero-quotes-->
+					</div><!--//promo-->
+				</div><!--col-->
+				<div class="col-12 col-md-5 mb-5 align-self-center">
+					<div class="book-cover-holder">
+						<img class="img-fluid book-cover" src="~/images/@Model.imgfile" alt="book cover">
+						<div class="book-badge d-inline-block shadow">
+							New<br>Release
+						</div>
+					</div><!--//book-cover-holder-->
+				</div><!--col-->
+			</div><!--//row-->
+		</div><!--//container-->
+	</section><!--//hero-section-->
+	<!-- Javascript -->
+	<script src="/detailsAssets/plugins/popper.min.js"></script>
+	<script src="/detailsAssets/plugins/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/detailsAssets/plugins/smoothscroll.min.js"></script>
+
+	<script src="/detailsAssets/js/main.js"></script>
+
+</body>
+</html>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}
